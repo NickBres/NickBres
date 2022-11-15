@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NickBres&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&locale=en" alt="nickbres" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickBres&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nickbres&" alt="nickbres" /></p>
 
