@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate student (Computer Science and Mathematics BSc) at Ariel University, Israel🇮🇱</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nickbres" alt="nickbres" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=NickBres&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&locale=en" alt="nickbres" /></p>
 
