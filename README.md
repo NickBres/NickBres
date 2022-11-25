@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate student (Computer Science and Mathematics BSc) at Ariel University, Israel🇮🇱</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<h3 align="center">![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NickBres&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickBres&show_icons=true&theme=dark)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nikita-breslavsky-b6493023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita breslavsky" height="30" width="40" /></a>
 <a href="https://instagram.com/nckbrs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nckbrs" height="30" width="40" /></a>
 </p>
