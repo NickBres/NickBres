@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A passionate student (Computer Science and Mathematics BSc) at Ariel University, Israel🇮🇱</h3>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](https://github.com/NickBres/NickBres/blob/output/github-snake-dark.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=NickBres&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
