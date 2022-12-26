@@ -5,8 +5,8 @@
 ![GitHub Snake light](https://github.com/NickBres/NickBres/blob/output/github-snake.svg#gh-light-mode-only)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbres&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&hide_border=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbres&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
