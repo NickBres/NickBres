@@ -2,7 +2,7 @@
 <h3 align="center">A passionate student (Computer Science and Mathematics BSc) at Ariel University, Israel🇮🇱</h3>
 
 ![GitHub Snake dark](https://github.com/NickBres/NickBres/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/NickBres/NickBres/blob/output/github-snake-light.svg#gh-light-mode-only)
+![GitHub Snake light](https://github.com/NickBres/NickBres/blob/output/github-snake.svg#gh-light-mode-only)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&theme=transparent)
