@@ -13,5 +13,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickbres&show_icons=true&hide_border=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbres&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nickbres&label=Profile%20views&color=0e75b6&style=flat" alt="nickbres" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nickbres&label=Profile%20views&color=grey&style=for-the-badge" alt="nickbres" /> </p>
 
