@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
+<h1 align="center">Hello world!👨🏽‍💻, I'm Nick</h1>
 <h3 align="center">A passionate student (Computer Science and Mathematics BSc) at Ariel University, Israel🇮🇱</h3>
 
 <h4 align="left">Connect with me:</h4>
