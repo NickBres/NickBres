@@ -6,8 +6,6 @@
 <a href="https://linkedin.com/in/nikita-breslavsky-b6493023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita breslavsky" height="30" width="40" /></a>
 </p>
 
-![GitHub Snake dark](https://github.com/NickBres/NickBres/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/NickBres/NickBres/blob/output/github-snake.svg#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickbres&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
