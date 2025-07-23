@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!👨🏽‍💻, I'm Nick</h1>
-<h3 align="center"> BSc in Computer Science and Mathematics</h3>
+<h3 align="center"> Checkout my pinned projects!</h3>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
